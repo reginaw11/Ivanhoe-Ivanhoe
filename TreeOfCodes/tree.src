@@ -27,7 +27,8 @@ Foer.usesPoeticLicense(streetofcrocodiles);//Calls the function in highlighteran
 Foer.convertsStreetToTree(streetofcrocodiles);//Calls the function in highlighterandpen that changes the key phrasing
 
 /* From here on we have the story itself */
-Class Father = isSobbing; isCallingForHelp; isMotionless; isSad; isLonely; isMissingMother; isInCorner;
+Class Father = isSobbing; isCallingForHelp; isMotionless; isSad; isLonely; isMissingMother; isInCorner;Father.isAbsentMinded();Father.isSad();Father.isDoubtful();Father.isCallingforHelp();Father.isAwake()
+
 Class Mother = isOutOfHouse; isAngry; isFeelingGuilty;
 Class Narrator = isHappy; isLonely; isGuilty; isFeelingFree; isOutOfHouse; IsMissingMother; isWorried; isResentful; isLight; isAwake;
 
