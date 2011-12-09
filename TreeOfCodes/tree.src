@@ -24,6 +24,7 @@ confirm(message); //asks for confirmation of shift
 int main()
 {   //main is the function that holds the body of the work.  It calls other functions and does small-scale operations
 
+character Father; Father.isMissingMother() ; Father.isIntheCorner() ; Father.isAngry() ; Father.isSad() ; Father.isAbsentMinded() ; Father.isSad() ; Father.isDoubtful() ; Father.isCallingforHelp() ; Father.isAwake()
 
 ifstream in("StreetofCrocodiles.txt"); //Reads in the text file
   While (inFile){
